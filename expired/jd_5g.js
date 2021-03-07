@@ -468,7 +468,7 @@ function myRank() {
         "Accept": "application/json, text/plain, */*",
         "Connection": "keep-alive",
         "Cookie": cookie,
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; MI 6 Build/PKQ1.190118.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 Mobile Safari/537.36",
         "Accept-Language": "zh-cn",
         "Referer": "https://rdcseason.m.jd.com/",
         "Accept-Encoding": "gzip, deflate, br"
@@ -531,7 +531,7 @@ function saveJbean(id) {
         "Accept": "application/json, text/plain, */*",
         "Connection": "keep-alive",
         "Cookie": cookie,
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1",
+        "User-Agent": "Mozilla/5.0 (Linux; Android 9; MI 6 Build/PKQ1.190118.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 Mobile Safari/537.36",
         "Accept-Language": "zh-cn",
         "Referer": "https://rdcseason.m.jd.com/",
         "Accept-Encoding": "gzip, deflate, br"
@@ -644,7 +644,7 @@ function taskUrl(function_id,body) {
       "origin": "https://rdcseason.m.jd.com",
       "referer": "https://rdcseason.m.jd.com/",
       'Content-Type': 'application/x-www-form-urlencoded',
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1"
+      "User-Agent": "Mozilla/5.0 (Linux; Android 9; MI 6 Build/PKQ1.190118.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 Mobile Safari/537.36"
     }
   }
 }
@@ -659,7 +659,7 @@ function taskPostUrl(function_id, body = "") {
       "origin": "https://rdcseason.m.jd.com",
       "referer": "https://rdcseason.m.jd.com/",
       'Content-Type': 'application/x-www-form-urlencoded',
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1"
+      "User-Agent": "Mozilla/5.0 (Linux; Android 9; MI 6 Build/PKQ1.190118.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 Mobile Safari/537.36"
     }
   }
 }
@@ -677,7 +677,7 @@ function taskPostUrl2(function_id, body = {}, function_id2) {
       "origin": "https://h5.m.jd.com",
       "referer": "https://h5.m.jd.com/",
       'Content-Type': 'application/x-www-form-urlencoded',
-      "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1"
+      "User-Agent": "Mozilla/5.0 (Linux; Android 9; MI 6 Build/PKQ1.190118.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 Mobile Safari/537.36"
     }
   }
 }
@@ -694,7 +694,7 @@ function TotalBean() {
         "Connection": "keep-alive",
         "Cookie": cookie,
         "Referer": "https://wqs.jd.com/my/jingdou/my.shtml?sceneval=2",
-        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Mobile/15E148 Safari/604.1"
+          "User-Agent": "Mozilla/5.0 (Linux; Android 9; MI 6 Build/PKQ1.190118.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/89.0.4389.72 Mobile Safari/537.36"
       }
     }
     $.post(options, (err, resp, data) => {

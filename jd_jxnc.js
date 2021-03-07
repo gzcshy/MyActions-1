@@ -176,7 +176,7 @@ function requireConfig() {
                     "Accept-Encoding": "gzip, deflate, br",
                     "Accept-Language": "zh-cn",
                     "Connection": "keep-alive",
-                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.11 Safari/537.36"
                 },
                 "timeout": 10000,
             }

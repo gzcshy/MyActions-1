@@ -430,7 +430,7 @@ function getLatLng() {
         headers: {
           "referer": "https://jingweidu.bmcx.com/",
           'Content-Type': 'text/html; charset=utf-8',
-          "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.11 Safari/537.36"
         }
       }, async (err, resp, data) => {
         const res = data.match(/qq\.maps\.LatLng\(([\d\.]+), ([\d\.]+)\)/);
